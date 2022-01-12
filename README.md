@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Artem
-<img align="right" width="250" height="190" src="https://64.media.tumblr.com/1acd142680aeae7379ad1871d50ab113/tumblr_pxbg52Fhlm1xggw0so1_500.gifv">
+<img align="right" width="432" height="768" src="https://64.media.tumblr.com/700f31972f6fcc616261bb8c9f8808c8/tumblr_paxf91u2F31rnbw6mo1_1280.gifv">
 
 - 🕸 21 y.o. 4th year student
 - 🔭 I’m currently working on learning the Web and AI
