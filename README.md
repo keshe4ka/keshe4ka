@@ -1,6 +1,8 @@
+<img align="right" width="480" height="=270" src="https://media2.giphy.com/media/3ohzdKy5Z8TChSDuiA/giphy.gif">
+
 ### Hi there 👋 I'm Artem
 
-<img align="right" width="480" height="=270" src="https://media2.giphy.com/media/3ohzdKy5Z8TChSDuiA/giphy.gif">
+
 
 - 🕸 21 y.o. 4th year student
 - 🔭 I’m currently working on learning the Web and AI
