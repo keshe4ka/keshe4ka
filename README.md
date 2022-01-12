@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Artem
-<img align="right" width="434" height="296" src="https://data.whicdn.com/images/335067218/original.gif">
+<img align="right" width="400" height="286" src="https://data.whicdn.com/images/335067218/original.gif">
 
 - 🕸 21 y.o. 4th year student
 - 🔭 I’m currently working on learning the Web and AI
@@ -22,7 +22,7 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshe4ka&show_icons=true&theme=buefy&layout=compact" />
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshe4ka&show_icons=true&theme=buefy&layout=compact" />
 </a>
 
 <br>
