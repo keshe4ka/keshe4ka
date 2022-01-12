@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Artem
-<img align="right" width="340" height="=500" src="https://c.tenor.com/9J4ubEzZqeEAAAAd/japan-aesthetic.gif">
+<img align="right" width="340" height="=500" src="https://64.media.tumblr.com/1acd142680aeae7379ad1871d50ab113/tumblr_pxbg52Fhlm1xggw0so1_500.gifv">
 
 - 🕸 21 y.o. 4th year student
 - 🔭 I’m currently working on learning the Web and AI
