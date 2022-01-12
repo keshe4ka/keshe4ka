@@ -1,17 +1,12 @@
 <img align="right" width="480" height="=270" src="https://media2.giphy.com/media/3ohzdKy5Z8TChSDuiA/giphy.gif">
 
 
-### Hi there 👋 I'm Artem
+## Hi there 👋 I'm Artem
 
 - 🕸 21 y.o. 4th year student
 - 🔭 I’m currently working on learning the Web and AI
 - ✉️ You can shoot me an email at [artem.anaschenko@gmail.com](mailto:artem.anaschenko@gmail.com).
 
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
