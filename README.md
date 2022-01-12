@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Artem
-<!-- <img align="right" width="340" height="=640" src="https://c.tenor.com/9J4ubEzZqeEAAAAd/japan-aesthetic.gif"> <img align="right" width="340" height="=640" src="https://c.tenor.com/9J4ubEzZqeEAAAAd/japan-aesthetic.gif">-->
+<img align="right" width="340" height="=640" src="https://c.tenor.com/9J4ubEzZqeEAAAAd/japan-aesthetic.gif"> 
+<!-- <img align="right" width="340" height="=640" src="https://c.tenor.com/9J4ubEzZqeEAAAAd/japan-aesthetic.gif"> -->
 
 - 🕸 21 y.o. 4th year student
 - 🔭 I’m currently working on learning the Web and AI
