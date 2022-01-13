@@ -2,7 +2,7 @@
 <img align="right" width="400" height="286" src="https://data.whicdn.com/images/335067218/original.gif">
 
 - 🕸 21 y.o. 4th year student
-- 🔭 I’m currently working on learning the Web and AI
+- 🔭 I’m currently working on learning the Web and Ai
 - ✉️ You can shoot me an email at [artem.anaschenko@gmail.com](mailto:artem.anaschenko@gmail.com).
 
 ## 🛠 My fancy badge area
