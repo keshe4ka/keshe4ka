@@ -4,7 +4,7 @@
 - 🕸 hakir joske
 - 💼 backend dev
 - 🔭 Web, AI, all electrical and cyber-goths
-- ✉️ You can shoot me an email at [artem.anaschenko@gmail.com](mailto:artem.anaschenko@gmail.com).
+- ✉️ You can shoot me an email at [artem.anaschenko@gmail.com](mailto:artem.anaschenko@gmail.com)
 
 ## Badges
 
