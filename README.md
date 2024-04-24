@@ -2,7 +2,7 @@
 <img align="right" width="400" height="286" src="https://cdn.shopify.com/s/files/1/0344/6469/files/cat-gif-loop-maru_grande.gif?v=1523984148">
 
 
-- 🕸 hakir joske
+- 🕸 web3 enjoyer
 - 💼 backend dev
 - 🔭 Web, AI, all electrical and cyber-goths
 - ✉️ You can shoot me an email at [artem.anaschenko@gmail.com](mailto:artem.anaschenko@gmail.com)
